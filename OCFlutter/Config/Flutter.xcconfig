@@ -1,0 +1,15 @@
+//
+//  Flutter.xcconfig
+//  OCFlutter
+//
+//  Created by 李闯 on 2020/4/1.
+//  Copyright © 2020 李闯. All rights reserved.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+
+#include "../flutter_module/.ios/Flutter/Generated.xcconfig"
+ENABLE_BITCODE=NO
+
